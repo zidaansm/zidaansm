@@ -9,10 +9,10 @@ If you'd like to connect or get to know me better, feel free to follow me on [In
 <table>
   <tr>
     <td>
-      <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zidanseft&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+      <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zidaansm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
     </td>
     <td>
-      <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zidanseft&layout=compact&langs_count=8&theme=algolia"/>
+      <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zidaansm&layout=compact&langs_count=8&theme=algolia"/>
     </td>
   </tr>
 </table>
