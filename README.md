@@ -1,10 +1,5 @@
 # Welcome to my GitHub! Glad to have you here 😄
 
-My name is **Zidan Seftino Mutaqin**.<br>
-
-I'm currently a student at [Universitas Bani Saleh](https://ubs.ac.id/).<br>
-
-If you'd like to connect or get to know me better, feel free to follow me on [Instagram](https://www.instagram.com/zidaansm/).
 
 <table>
   <tr>
