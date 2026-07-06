@@ -24,4 +24,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zidaansm&theme=react-dark&hide_border=true&bg_color=1a1a1a&color=D4AF37&line=D4AF37&point=F5E6C8" />
 
   ![Profile Views](https://komarev.com/ghpvc/?username=zidaansm&color=D4AF37&style=flat&label=views)
+
+  <div align="center">
+<img src="https://raw.githubusercontent.com/zidaansm/zidaansm/output/github-snake-dark.svg" alt="snake animation" />
+</div>
 </div>
