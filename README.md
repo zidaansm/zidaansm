@@ -29,3 +29,27 @@
 <img src="https://raw.githubusercontent.com/zidaansm/zidaansm/output/github-snake-dark.svg" alt="snake animation" />
 </div>
 </div>
+
+<div align="center">
+
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <img src="https://skillicons.dev/icons?i=laravel" height="45" style="margin: 0 12px;" />
+  <img src="https://skillicons.dev/icons?i=php" height="45" style="margin: 0 12px;" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="45" style="margin: 0 12px;" />
+  <img src="https://skillicons.dev/icons?i=react" height="45" style="margin: 0 12px;" />
+  <img src="https://skillicons.dev/icons?i=js" height="45" style="margin: 0 12px;" />
+  <img src="https://skillicons.dev/icons?i=ts" height="45" style="margin: 0 12px;" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="45" style="margin: 0 12px;" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" style="margin: 0 12px;" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45" style="margin: 0 12px;" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="45" style="margin: 0 12px;" />
+  <img src="https://skillicons.dev/icons?i=git" height="45" style="margin: 0 12px;" />
+  <img src="https://skillicons.dev/icons?i=github" height="45" style="margin: 0 12px;" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="45" style="margin: 0 12px;" />
+  <img src="https://skillicons.dev/icons?i=discordjs" height="45" style="margin: 0 12px;" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="45" style="margin: 0 12px;" />
+  <img src="https://cdn.simpleicons.org/steam/D4AF37" height="45" style="margin: 0 12px;" />
+  <img src="https://cdn.simpleicons.org/roblox/D4AF37" height="45" style="margin: 0 12px;" />
+</marquee>
+
+</div>
