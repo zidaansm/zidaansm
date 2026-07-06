@@ -1,22 +1,8 @@
-# Welcome to my GitHub! Glad to have you here 😄
-
-
-<table>
-  <tr>
-    <td>
-      <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zidaansm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    </td>
-    <td>
-      <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=zidaansm&layout=compact&langs_count=8&theme=algolia"/>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
 
-# heyyy 👋 gue Zidan
+# Welcome to my GitHub! Glad to have you here 😄
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=ngoding+sambil+overthinking+deadline+skripsi;expert+debugging+masalah+bikinan+sendiri;kadang+push+ke+main+langsung%2C+jangan+ditiru;404%3A+work-life+balance+not+found" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Web+Developer;expert+debugging+masalah+bikinan+sendiri;kadang+push+ke+main+langsung%2C+jangan+ditiru;404%3A+work-life+balance+not+found" alt="typing animation" />
 
 </div>
 
