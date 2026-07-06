@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub! Glad to have you here 😄
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=a+Junior+Web+Developer;As a final-year student, I am focusing on my graduation project.;kadang+push+ke+main+langsung%2C+jangan+ditiru;404%3A+work-life+balance+not+found" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=a+Junior+Web+Developer;As+a+final+year+student,+I+am+focusing+on+my+graduation+project.;404%3A+work-life+balance+not+found" alt="typing animation" />
 
 </div>
 
