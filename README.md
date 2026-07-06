@@ -20,17 +20,6 @@
 
 </div>
 
-<br>
-
-`` ⋆ hal-hal random yang gue rasa perlu lo tau ⋆ ``
-
-- 🎓 skripsi progress: 60% ngoding, 40% mikirin nasib
-- ☕ ngoding modal kopi sachet, bukan sultan starbucks
-- 🎮 war Mobile Legends demi rank, war sama diri sendiri demi bug
-- 🤖 lagi asik bikin bot Discord yang lebih pinter dari gue kadang
-- 🐛 status commit: `"fix bug"` (lupa bug apa)
-
-<br>
 
 <div align="center">
 
