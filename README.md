@@ -32,9 +32,9 @@
   <img src="https://skillicons.dev/icons?i=github" height="45" style="margin: 0 12px;" />
   <img src="https://skillicons.dev/icons?i=vscode" height="45" style="margin: 0 12px;" />
   <img src="https://skillicons.dev/icons?i=discordjs" height="45" style="margin: 0 12px;" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="45" style="margin: 0 12px;" />
-  <img src="https://cdn.simpleicons.org/steam/D4AF37" height="45" style="margin: 0 12px;" />
-  <img src="https://cdn.simpleicons.org/roblox/D4AF37" height="45" style="margin: 0 12px;" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="45" style="margin: 0 12px;" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="45" style="margin: 0 12px;" />
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="45" style="margin: 0 12px;" />
 </marquee>
 
 </div>
