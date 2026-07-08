@@ -2,7 +2,7 @@
 
 # Welcome to my GitHub! Glad to have you here 😄
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=a+Junior+Web+Developer;8th+semester+students;Information+Systems+Students" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=500&lines=Web+Developer+Enthusiast;8th+semester+students;Information+Systems+Students" alt="typing animation" />
 
 </div>
 
