@@ -53,4 +53,3 @@
 <img src="https://raw.githubusercontent.com/zidaansm/zidaansm/output/github-snake-dark.svg" alt="snake animation" />
 </div>
 </div>
-
